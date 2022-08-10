@@ -15,6 +15,5 @@
  atguigu! hello git!
  atguigu! hello git!
  atguigu! hello git!
- atguigu! hello git! hello
- hello world!
-
+ atguigu! hello git! master test
+ atguigu! hello git! hot-fix test
